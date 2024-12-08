@@ -18,31 +18,31 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ahmed Tremo # the main title
+title: Carthica # the main title
 
-tagline: my personal blog # it will display as the sub-title
+tagline: I walk the line between gods and men! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  blog, tremo, github
+   ctf, cybersec, blog, write-ups
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://tremooo.github.io"
+url: "https://veissa.github.io/"
 
 github:
-  username: github_username # change to your github username
+  username: veissa # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: veissa # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Carthica
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # https://twitter.com/username # change to your twitter homepage
+    - https://github.com/veissa # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1664336685973356544/yKVgKkyZ_400x400.jpg
+avatar: https://i.pinimg.com/736x/4a/b1/eb/4ab1eb0d56217808d6d21622ba90012e.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
