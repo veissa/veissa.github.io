@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+![img1](assets/img1.png)
 <br>
 > I am `Mohamed ANADDAM`! <br>
 Currently a 1st year embedded systems engineering student at INPT<br>
