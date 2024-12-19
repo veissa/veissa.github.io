@@ -42,7 +42,7 @@ _Microsoft response to the potential volniurability_
 
 <br>
 
->  My badges and certificates :
+>  My badges and certificates:
 {: .prompt-info}
 
 
