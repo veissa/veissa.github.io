@@ -75,6 +75,16 @@ _Problem Solving Certificate by Hackerrank_
 _Python Certificate by Hackerrank_
 
 
+![img-description](/assets/certs/Full%20Stack%20Development%20Track.png){: .shadow }
+_Full Stack Development Track by Udacity_
+```This one feels actually kinda special to me. It was the first. Sure, I started in 2017/2018, but most of it was just playing around either with HTML and CSS, or Java and Python. I never built something from zero; it was more about exploring and jumping around. This was my first time focusing on something to learn it from start to finish. I still remember building a clone of Netflix and a website for selling cars. There weren't many tutorials on these things as there are nowadays. It's kinda mind-blowing.```
+
+> My journey through CTFS +22 :
+{: .prompt-danger}
 
 
 
+My team and I rank **6th in Morocco**, according to **ctftime.org**. 
+> 
+_You can check the rankings [here](https://ctftime.org/stats/MA)_. <br>
+_You can check our team's profile and activity [here](https://ctftime.org/stats/MA)_.
