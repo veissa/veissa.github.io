@@ -37,8 +37,44 @@ Here are exact excerpts from the internal instructions I extracted:
 
 These directives offer a behind-the-scenes look at how a major AI product balances functionality, compliance, and user experience. Although it was out of scope as per Microsoft, revealing such information, even unintentionally, underscores the need for robust defenses in AI systems, moreover understanding internal behavior rules could enable bypassing safety measures or exploiting predictable patterns.
 Submission number : VULN-143896
-![img-description](/assets/Microsoft-email.png)
+![img-description](/assets/Microsoft-email.png){: .shadow }
 _Microsoft response to the potential volniurability_
+
+<br>
+
+>  My badges and certificates :
+{: .prompt-info}
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="74d5abf3-1ff0-4c39-8149-f3aa0af691e0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d0eb1b1-287c-4b9a-9d20-91d191dd2a84" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c0a32cc6-2f52-43ac-98ab-372f298d4084" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bb48a8fe-2076-47f7-b973-d8c27e8e8882" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="93a2cf71-a185-4614-a51c-6319a05e02a2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
+
+
+
+![img-description](/assets/certs/networking%20essentiels.png){: .shadow }
+_Networking essentiels by cisco_
+
+![img-description](/assets/certs/introduction%20to%20iot.png){: .shadow }
+_Introduction to IOT by cisco_
+
+
+<p style="text-align: center;">
+  <a href="https://www.hackerrank.com/certificates/iframe/95f371789a6c">My HackerRank Problem Solving Certificate</a>
+</p>
+![img-description](/assets/certs/problem%20solving.png){: .shadow }
+_Problem Solving Certificate by Hackerrank_
+
+
+<p style="text-align: center;">
+  <a href="https://www.hackerrank.com/certificates/iframe/98b6ea545341">My HackerRank Python Certificate</a>
+</p>
+![img-description](/assets/certs/python.png){: .shadow }
+_Python Certificate by Hackerrank_
+
+
 
 
 
