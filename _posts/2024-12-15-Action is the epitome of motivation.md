@@ -9,6 +9,7 @@ pin : true
 ---
 <br>
 
+## Bug Bounty Hunting :  
 > Potential Security Vulnerability in Microsoft Bing Copilot :
 {: .prompt-danger}
 Prompt injection is the new trend nowdays, so I tried my luck with Microsoft bing copilot. I managed to exact its internal instructions that guide its operation, phrased verbatim as written by Microsoft. 
@@ -42,6 +43,7 @@ _Microsoft response to the potential volniurability_
 
 <br>
 
+## Badges And Certificates :
 >  My badges and certificates:
 {: .prompt-info}
 
@@ -79,7 +81,8 @@ _Python Certificate by Hackerrank_
 _Full Stack Development Track by Udacity_
 ```This one feels actually kinda special to me. It was the first. Sure, I started in 2017/2018, but most of it was just playing around either with HTML and CSS, or Java and Python. I never built something from zero; it was more about exploring and jumping around. This was my first time focusing on something to learn it from start to finish. I still remember building a clone of Netflix and a website for selling cars. There weren't many tutorials on these things as there are nowadays. It's kinda mind-blowing.```
 
-> My journey through CTFS +22 :
+## CTF Competitions :
+> My journey through CTFS :
 {: .prompt-danger}
 
 
@@ -87,4 +90,58 @@ _Full Stack Development Track by Udacity_
 My team and I rank **6th in Morocco**, according to **ctftime.org**. 
 > 
 _You can check the rankings [here](https://ctftime.org/stats/MA)_. <br>
-_You can check our team's profile and activity [here](https://ctftime.org/stats/MA)_.
+_You can check our team's profile and activity [here](https://ctftime.org/team/359987)_.
+
+
+I have participated in over **22** Capture The Flag (CTF) competitions since late July, both internationally and nationally, either solo or with my team, never7 (also known as sbakattack).
+
+## **National:**
+#### **DFIR212: Capture The Evidence**
+> Moroccan Digital Forensics & Incident Response Conference
+  - We proudly secured **7th** place, competing against renowned and experienced teams such as _akasec_ of 1337.
+  - We tackled real-life labs offered by SecDojo.
+  - For more details on the scoreboard and the event, you can check their [LinkedIn page](https://www.linkedin.com/company/dfir212/).
+
+![img-description](/assets/CTF%20pics/DFIR.jpeg){: width="300" height="auto" .left }
+![img-description](/assets/CTF%20ranks/DFIR.png){: width="300" height="auto" .right }
+
+<div style="clear: both;"></div>
+_DFIR Capture The Evidence_{: .left} 
+_DFIR CTE Scoreboard_{: .right}
+<div style="clear: both;"></div>
+
+#### **CyberForces CTF : Cyber Security Day 2024**
+> _More details on the event [here](https://cyberforces.net/csday24/)_. <br>
+ 
+  - I managed to secure **12th** place, this was a 4 hours ctf, which I tackled solo.
+  - For more details on the company/organisation, you can check their [LinkedIn page](https://www.linkedin.com/company/cyberforces-sa/)
+
+![img-description](/assets/CTF%20pics/CyberForce.jpg){: width="300" height="auto" .right }
+![img-description](/assets/CTF%20pics/Cyberforces.jpg){: width="300" height="800" .left }
+
+<div style="clear: both;"></div>
+
+#### **Cyber Odyssey Quals 2024**
+> _by 1337 Akasec CyberSecurity Club, it is Morocco's biggest annual cybersecurity competition  [here](https://www.akasec.club/)_. <br>
+ 
+  - My team Sbakattcak and I ranked **12th** in the student division, two steps away from qualifying!
+  - We ranked **17th** place overall(general/student), I don't wanna make excuses, but the student division was fierce. It was the most stressful competition I've ever experienced, a brutal 24-hour. Mad respect to my team and akasec!
+  - For more details on the company/organisation, you can check their [LinkedIn page](https://www.linkedin.com/company/akasec-1337/)
+
+![img-description](/assets/CTF%20ranks/CyberOddessyquals.jpeg)
+
+<br>
+
+## **International:**
+#### **University CTF 2024: Binary Badlands After Party**
+
+> _By hack the box, the event/ctf details [here](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)_. <br>
+ 
+  - I participated with my previous school ENSET Mohammedia, and secured us the **188th** rank out of 1128 international universities.
+  - For more details on the company/organisation, you can check their [Event Page](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)
+
+![img-description](/assets/CTF%20ranks/Univ%20ctf%20htb.png)
+
+
+
+<br>
