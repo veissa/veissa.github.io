@@ -169,7 +169,7 @@ _DFIR CTE Scoreboard_{: .right}
 
 #### **open kattis**
 
-> _ A popular resource for competitive programming used by students, programmers, and aspiring coders to practice problem-solving [here](https://open.kattis.com/)_. <br>
+> _A popular resource for competitive programming used by students, programmers, and aspiring coders to practice problem-solving [here](https://open.kattis.com/)_. <br>
  
   - I rank **8** out of the 131 users from INPT using C++/python mainly.
   - I rank **39** out of the 1100 users from Morocco. 
@@ -181,7 +181,7 @@ _DFIR CTE Scoreboard_{: .right}
 
 #### **IntelHunt : OSINT CTF**
 
-> _ A popular resource for real-world OSINT challenges [here](https://umctf.com//)_. <br>
+> _A popular resource for real-world OSINT challenges [here](https://umctf.com//)_. <br>
  
   - I rank **45** out of the 294 users.
   - I shared my write-ups for most of the challs in my github.
@@ -191,7 +191,7 @@ _DFIR CTE Scoreboard_{: .right}
 
 ![img-description](/assets/CTF%20ranks/osint.png)
 
-#### **Try Hack me**
+#### **TryHackme**
 
 > _A renowned platforme for learning cybersec [here](https://tryhackme.com/)_. <br>
  
@@ -201,6 +201,23 @@ _DFIR CTE Scoreboard_{: .right}
   ![img-description](/assets/CTF%20ranks/tryhackme.png)
   
 #### **Hack The Box**
+> _A renowned platforme for learning cybersec [here](https://hackthebox.com/)_. <br>
+ 
+  HackTheBox is my favorite, I've had a great time pwning labs, boxes, and participating in ctf events.
+  - [Here is my profile](https://ctf.hackthebox.com/user/profile/476983)
+  ![img-description](/assets/CTF%20ranks/HackTheBox.png)
+
+#### **Pwn.College**
+> _A renowned platforme for learning cybersec [here](https://pwn.college/)_. <br>
+ 
+  Pwn.College is a less known platforme from my pov, but it's actually a great source, though old, I would always recommend it, I finished most of the labs there and learned a great deal of knowledge.
+  - I've completed more than **22** modules, solving **165** challenges, in pwn, rev.
+  - It's been a while since I've visited there, all cause of me being in the wrong major, I gotta balance my studies which do not align with my plans. 
+  ![img-description](/assets/CTF%20ranks/pwn.college.png)
+
+
+
+
 
 
 
@@ -226,6 +243,7 @@ _DFIR CTE Scoreboard_{: .right}
 - University CTF 2024: Binary Badlands After Party 
 - IntelHunt on umctf.com .
 - N7CTF : Enset CTF
+<b>
 Upcoming :
 - 0xlaugh
 - MetaCTF December 2024 Flash CTF  21 december 
