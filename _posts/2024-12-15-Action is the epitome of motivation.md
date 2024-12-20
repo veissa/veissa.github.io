@@ -142,6 +142,92 @@ _DFIR CTE Scoreboard_{: .right}
 
 ![img-description](/assets/CTF%20ranks/Univ%20ctf%20htb.png)
 
+#### **The Cyber Jawara International 2024**
 
+> _organized by ID-SIRTII/CC (Indonesia Security Incident Response Team on Internet Infrastructure/Coordination Center). [here](https://ctftime.org/event/2552)_. <br>
+ 
+  - I participated with N2L team, and secured **12th** rank, I solved a hard misc challenge !
+  - For more details on the company/organisation, you can check their [Official Page](https://international.cyberjawara.pro/)
+
+![img-description](/assets/CTF%20ranks/N2L.png)
+
+
+#### **TCP1P CTF 2024: Exploring Nusantara's Digital Realm**
+
+> _organized by the TCP1P community [here](https://ctftime.org/event/2256)_. <br>
+ 
+  - I participated with Sbakattack (Never7) and secured us **38** place out of 1110 teams worldwide.
+  - For more details on the company/organisation, you can check their [Official Page](https://ctftime.org/event/2256)
+
+![img-description](/assets/CTF%20ranks/TCP1P.png)
+
+
+> It would be an overkill to list all the remaining ctfs here, so I'll just name them, u can always check our team's profile on ctftime.org. One might argue that I had a good team, I believe I always push myself to be the most contributor to the team, or to contribute as much as my teammates always, I go as jkome0x, cashmer, yuris, and carthica... I will share my contributions to prove my points.
+{: .prompt-info}
+
+## Me, On other websites :
+
+#### **open kattis**
+
+> _ A popular resource for competitive programming used by students, programmers, and aspiring coders to practice problem-solving [here](https://open.kattis.com/)_. <br>
+ 
+  - I rank **8** out of the 131 users from INPT using C++/python mainly.
+  - I rank **39** out of the 1100 users from Morocco. 
+  - For more details on Kattis and the scoreboad, you can check the [Official Page](https://open.kattis.com/universities/inpt.ac.ma)
+  - Morocco's ranks [Official Page](https://open.kattis.com/countries/MAR)
+
+
+![img-description](/assets/CTF%20ranks/Kattis.png)
+
+#### **IntelHunt : OSINT CTF**
+
+> _ A popular resource for real-world OSINT challenges [here](https://umctf.com//)_. <br>
+ 
+  - I rank **45** out of the 294 users.
+  - I shared my write-ups for most of the challs in my github.
+  - For more details on the platforme and the scoreboad, you can check the [Scoreboard Page](https://umctf.com/scoreboard)
+  - My profile [Profile Page](https://umctf.com/users/519)
+
+
+![img-description](/assets/CTF%20ranks/osint.png)
+
+#### **Try Hack me**
+
+> _A renowned platforme for learning cybersec [here](https://tryhackme.com/)_. <br>
+ 
+  Tryhackme is not really my favorite, thus I don't really play much there, yet here is what've done there at some point, I don't have a premium account, so the experience wasn't that great. 
+  - [2024 recap of my account by tryhackme](https://tryhackme.com/r/recapme/2024/carthica)
+  - [Here is my profile](https://tryhackme.com/r/p/carthica)
+  ![img-description](/assets/CTF%20ranks/tryhackme.png)
+  
+#### **Hack The Box**
+
+
+
+## CTFS I've participated in  :
+
+- Akasec CTF 2024 Fri, 07 June 2024,
+- vsCTF 2024 Fri, 14 June 2024
+- Wani CTF 2024  Fri, 21 June 2024
+- UIUCTF 2024 Sat, 29 June 2024
+- DownUnderCTF 2024 Fri, 05 July 2024
+- HITCON CTF 2024 Quals Fri, 12 July 2024
+- OSCTF Sat, 13 July 2024
+- ImaginaryCTF 2024 Fri, 19 July 2024
+- TFC CTF 2024 Fri, 02 Aug. 2024 
+- TCP1P CTF 2024: Exploring Nusantara's Digital Realm Fri, 11 Oct. 2024 
+- Questcon CTF Tue, 22 Oct. 2024 
+- 1337UP LIVE CTF Intigriti 
+- ISITDTU CTF 2024 Quals sat 26 oct 
+- The Cyber Jawara International 2024 Sun, 27 Oct. 2024 
+- DFIR : Capture The Evidence
+- CyberForces Cyber Security day
+- Hack the boo competition in hackthebox
+- University CTF 2024: Binary Badlands After Party 
+- IntelHunt on umctf.com .
+- N7CTF : Enset CTF
+Upcoming :
+- 0xlaugh
+- MetaCTF December 2024 Flash CTF  21 december 
 
 <br>
