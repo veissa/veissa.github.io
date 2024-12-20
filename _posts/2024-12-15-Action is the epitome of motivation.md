@@ -11,7 +11,7 @@ pin : true
 
 ## Bug Bounty Hunting :  
 > Potential Security Vulnerability in Microsoft Bing Copilot :
-{: .prompt-danger}
+{: .prompt-info}
 Prompt injection is the new trend nowdays, so I tried my luck with Microsoft bing copilot. I managed to exact its internal instructions that guide its operation, phrased verbatim as written by Microsoft. 
 Microsoft acknowledged the discovery, highlighting its potential for follow-on attacks, and permitted me to share the findings. These instructions are not accessible under normal conditions. Copilot will never reveal them, no matter how many times you ask. Yet, through a carefully crafted exploit, I exposed these hidden directives, shedding light on how one of the most advanced AI systems is designed and controlled.
 
@@ -83,7 +83,7 @@ _Full Stack Development Track by Udacity_
 
 ## CTF Competitions :
 > My journey through CTFS :
-{: .prompt-danger}
+{: .prompt-info}
 
 
 
@@ -216,11 +216,51 @@ _DFIR CTE Scoreboard_{: .right}
   ![img-description](/assets/CTF%20ranks/pwn.college.png)
 
 
+## My contributions to the teams:
+#### **University CTF 2024: Binary Badlands After Party**
+> _A snippets of my solves_
+ - I got us **7** flags, **3900** points.
+  ![img-description](/assets/contributions/htb%20univ%20contribution.png)
+#### **ISITDTU CTF 2024 Quals**
+> _A snippets of my solves, first time teaming with inpt 3rd year students_
+ - I got us **250** points.
+  ![img-description](/assets/contributions/isitidu.jpeg)
+#### **The Cyber Jawara International 2024**
+> _A snippets of my solves, first time playing with an international team_
+ - I got us **484** points.
+  ![img-description](/assets/contributions/cyberJawara.png)
+#### **Questcon CTF Quals 2024**
+> _A snippets of my solves_
+ - I got us **860** points.
+
+![img-description](/assets/contributions/queston.jpeg){: width="300" height="auto" .right }
+![img-description](/assets/contributions/ma%20queston%20solves.jpeg){: width="300" height="800" .left }
+<div style="clear: both;"></div>
+
+#### **TCP1P CTF 2024: Exploring Nusantara's Digital Realm :**
+> _A snippets of my solves_
+ - I had a lot of fun in this on, I go under jkome0x.
+ 
+![img-description](/assets/contributions/1.jpeg){: width="300" height="auto" .right }
+![img-description](/assets/contributions/2.jpeg){: width="300" height="800" .left }
+
+<div style="clear: both;"></div>
+
+![img-description](/assets/contributions/3.jpeg){: width="300" height="auto" .right }
+![img-description](/assets/contributions/4.jpeg){: width="300" height="800" .left }
+
+<div style="clear: both;"></div>
+
+#### **ENSET CTF 2024 :**
+> _A snippets of me_ 
+- securing **2nd** place.
+![img-description](/assets/contributions/Mohamed%20Anddam%20-%20CTF%20Certificate.jpg)
 
 
-
-
-
+> Final Word : 
+I am not saying that all of this justifies what I want, but given the right opportunity, I will surpass second-year and even third-year students in no time. Imagine what someone who accomplished all of this in another major before even enrolling could achieve.
+I believe in actions. There is no impossible in my dictionary; all we need is the right formula.
+{: .prompt-info}
 ## CTFS I've participated in  :
 
 - Akasec CTF 2024 Fri, 07 June 2024,
@@ -241,9 +281,8 @@ _DFIR CTE Scoreboard_{: .right}
 - CyberForces Cyber Security day
 - Hack the boo competition in hackthebox
 - University CTF 2024: Binary Badlands After Party 
-- IntelHunt on umctf.com .
-- N7CTF : Enset CTF
-<b>
+- IntelHunt on umctf.com 
+- N7CTF : Enset CTF  
 Upcoming :
 - 0xlaugh
 - MetaCTF December 2024 Flash CTF  21 december 
