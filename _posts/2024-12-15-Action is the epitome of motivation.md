@@ -1,7 +1,7 @@
 ---
 title: Me, Just in numbers !
-date: 2024-12-15 09:20:11 +/-TTTT
-categories: [personal]
+date: 2024-12-10 09:20:11 +/-TTTT
+categories: [personal, Me in numbers]
 tags: [stats]     # TAG names should always be lowercase
 description: Action is the epitome form of motivation !
 pin : true

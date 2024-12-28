@@ -1,6 +1,6 @@
 ---
 title: Snake game in C
-date: 2023-12-01 09:20:11 +/-TTTT
+date: 2024-09-19 09:20:11 +/-TTTT
 categories: [Programming, game-dev]
 tags: [c,game-dev]     # TAG names should always be lowercase
 description: basic snake game using libncurses-dev and ncurses-doc libs.

@@ -1,6 +1,6 @@
 ---
 title: FakeGPT Lab (blue team) | CyberDefenders
-date: 2024-12-15 09:20:11 +/-TTTT
+date: 2024-12-05 09:20:11 +/-TTTT
 categories: [write-ups, forensics]
 tags: [blue team,forensics, DFIR]
 description: My writeup for the FakeGpt lab by CyberDefenders
