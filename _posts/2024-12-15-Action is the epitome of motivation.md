@@ -53,6 +53,8 @@ _Microsoft response to the potential volniurability_
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c0a32cc6-2f52-43ac-98ab-372f298d4084" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bb48a8fe-2076-47f7-b973-d8c27e8e8882" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="93a2cf71-a185-4614-a51c-6319a05e02a2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ec990ab-050d-4b9b-8273-5747ffdbb556" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>{: .shadow }
+
 
 
 
