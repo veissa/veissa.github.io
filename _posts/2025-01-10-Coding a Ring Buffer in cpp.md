@@ -1,5 +1,5 @@
 ---
-title: Coding My Own Ring Buffer in C++
+title: Coding My Own Ring Buffer in C++.
 date: 2025-01-10 01:20:11 +/-TTTT
 categories: [Programming, cp]
 tags: [c++, cp, DSA]     # TAG names should always be lowercase
