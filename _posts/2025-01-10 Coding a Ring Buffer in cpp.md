@@ -1,7 +1,7 @@
 ---
-title: Coding my RING BUFFER in C++
+title: Coding my own RING BUFFER in C++
 date: 2025-01-10 01:20:11 +/-TTTT
-categories: [Programming, cp, DSA]
+categories: [Programming, cp]
 tags: [c++,cp, DSA]     # TAG names should always be lowercase
 description: Inspired by how dmesg uses a ring buffer to store logs and activities of the kernel etc, so I am coding a ring buffer too ~
 #author: "mohamed anaddam"                     # for single entry
