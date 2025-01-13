@@ -57,6 +57,9 @@ _Microsoft response to the potential volniurability_
 
 
 
+![img-description](/assets/certs/Linux%20certificate.png){: .shadow }
+_Linux Basics Course & Labs_
+
 
 ![img-description](/assets/certs/networking%20essentiels.png){: .shadow }
 _Networking essentiels by cisco_
